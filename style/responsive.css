@@ -46,7 +46,9 @@ span {
     height: 300px;
     padding-left: 70px;
     justify-content: center;
-    width: 400px; 
+    width: 400px;
+    font-family: "Lato", sans-serif;
+ 
 }
 
 .gride {
@@ -96,6 +98,7 @@ span {
     display: flex;
     flex-direction: column;
     align-items: center;
+    font-family: "Lato", sans-serif;
 } 
 
 .g-txt1 {
@@ -120,6 +123,8 @@ span {
     display: flex;
     flex-direction: column;
     text-align: center;
+    font-family: "Lato", sans-serif;
+ 
 }
 
 .id {
@@ -136,6 +141,8 @@ span {
     margin-top: 20px;
     margin-left: 15px;
     padding: 40px;
+    font-family: "Lato", sans-serif;
+ 
 }
 
 .feat1 {
@@ -236,6 +243,8 @@ span {
     padding-left: 50px;
     justify-content: center;
     width: 350px; 
+    font-family: "Lato", sans-serif;
+ 
 }
 
 .gride {
@@ -295,6 +304,8 @@ span {
     display: flex;
     flex-direction: column;
     align-items: center;
+    font-family: "Lato", sans-serif;
+ 
 } 
 
 .g-txt1 {
@@ -312,6 +323,7 @@ span {
     display: flex;
     flex-direction: column;
     text-align: center;
+    font-family: "Lato", sans-serif;
 }
 
 .id {
@@ -334,6 +346,7 @@ span {
     margin-top: 20px;
     margin-left: 15px;
     padding: 20px;
+    font-family: "Lato", sans-serif;
 }
 
 .feat1 {
@@ -452,6 +465,7 @@ span {
         padding-right: 0px;
         justify-content: center;
         max-width: 350px;
+        font-family: "Lato", sans-serif;
     }
 
     .duo-img {
@@ -511,6 +525,7 @@ span {
         height: 250px;
         justify-content: center;
         text-align: center;
+        font-family: "Lato", sans-serif;
     }
 
     .g-txt1 {
@@ -528,6 +543,7 @@ span {
         display: flex;
         flex-direction: column;
         text-align: center;
+        font-family: "Lato", sans-serif;
     }
 
     .id {
@@ -550,6 +566,7 @@ span {
         justify-content: space-around;
         margin-top: 20px;
         margin-left: 10px;
+        font-family: "Lato", sans-serif;
     }
 
     .feat1 {
